@@ -1,0 +1,16 @@
+current directory: /Users/mohit_fe/Documents/NewProjectArpit/NewProjectReactNative/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+/Users/mohit_fe/.rvm/rubies/ruby-2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mohit_fe/Documents/NewProjectArpit/NewProjectReactNative/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240317-7429-1i5tph2 sitelibdir\=./.gem.20240317-7429-1i5tph2 clean
+
+current directory: /Users/mohit_fe/Documents/NewProjectArpit/NewProjectReactNative/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240317-7429-1i5tph2 sitelibdir\=./.gem.20240317-7429-1i5tph2
+make: Nothing to be done for `all'.
+
+current directory: /Users/mohit_fe/Documents/NewProjectArpit/NewProjectReactNative/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240317-7429-1i5tph2 sitelibdir\=./.gem.20240317-7429-1i5tph2 install
+
+current directory: /Users/mohit_fe/Documents/NewProjectArpit/NewProjectReactNative/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240317-7429-1i5tph2 sitelibdir\=./.gem.20240317-7429-1i5tph2 clean
